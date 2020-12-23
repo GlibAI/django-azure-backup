@@ -1,4 +1,4 @@
-# Glib Backup
+# Django Database Backup
 
 This package can take postgres dump and able to upload data in azure cloud storage.
 
