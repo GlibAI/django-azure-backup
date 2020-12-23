@@ -12,3 +12,8 @@ open the link.
 3. AZURE_CREDENTIAL (Azure Key).
 4. AZURE_CONTAINER (Azure Container Name).
 5. AZURE_BACKUP_FOLDER_NAME.
+
+## Commands
+1. python3 manage.py db-backup-list
+2. python3 manage.py db-backup
+3. python3 manage.py db-restore
